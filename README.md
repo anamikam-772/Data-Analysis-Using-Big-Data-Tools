@@ -30,3 +30,57 @@ The project demonstrates end-to-end data processing using **PySpark**, data stor
 ---
 
 ## 📂 Project Structure
+
+## 📂 Project Structure
+├── index.html # Project overview web page
+├── G1_Anamika_Mishra.pdf # Detailed project report
+├── README.md # Project documentation
+
+yaml
+Copy code
+
+---
+
+## 🔄 Data Processing Workflow
+1. Loaded multiple datasets into **PySpark DataFrames**
+2. Defined **custom schemas** for structured ingestion
+3. Performed **data profiling and cleansing**
+   - Removed nulls
+   - Handled unknown values
+4. Joined multiple datasets into a **single unified dataset**
+5. Stored final datasets in **Hive tables** with partitioning
+
+---
+
+## 🤖 Machine Learning Models
+### 1. Logistic Regression
+- Used for binary classification
+- Accuracy: **~90.8%**
+- Recall: **~95.0%**
+
+### 2. Decision Tree Classifier
+- Improved performance over Logistic Regression
+- Accuracy: **~91.6%**
+- Recall: **~93.0%**
+
+📌 **Conclusion:**  
+The Decision Tree model performed better than Logistic Regression for the given dataset.
+
+---
+
+## 📄 Project Report
+The complete implementation, code, dataset joins, and model evaluation are documented in the PDF:
+
+📎 **G1_Anamika_Mishra.pdf**
+
+---
+
+## 🚀 How to View This Project
+- Open `index.html` in any web browser for a quick overview
+- Read the PDF for full technical details
+- Review the README for understanding the project flow
+
+---
+
+## 📜 License
+This project is for **academic purposes only**.
