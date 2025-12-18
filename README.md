@@ -27,19 +27,6 @@ The project demonstrates end-to-end data processing using **PySpark**, data stor
 - Logistic Regression
 - Decision Tree Classifier
 
----
-
-## 📂 Project Structure
-
-## 📂 Project Structure
-├── index.html # Project overview web page
-├── G1_Anamika_Mishra.pdf # Detailed project report
-├── README.md # Project documentation
-
-yaml
-Copy code
-
----
 
 ## 🔄 Data Processing Workflow
 1. Loaded multiple datasets into **PySpark DataFrames**
